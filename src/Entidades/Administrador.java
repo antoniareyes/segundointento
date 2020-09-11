@@ -1,5 +1,5 @@
 
-package segundointento;
+package Entidades;
 
 public class Administrador {
       

@@ -1,5 +1,5 @@
 
-package clases_Fede;
+package Entidades;
 
 public class Inventario {
     
